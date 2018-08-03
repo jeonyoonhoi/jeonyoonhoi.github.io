@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: BigQuery
-slug: BigQuery
-category: gcp
+title: Node.js
+slug: nodsjs
+category: study
 menu: false
 order: 2
 ---

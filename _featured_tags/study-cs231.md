@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: CS231n
+title: CS231
 slug: cs231
-category: data
+category: study
 menu: false
-order: 8
+order: 3
 ---

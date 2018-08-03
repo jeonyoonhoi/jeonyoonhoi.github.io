@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Machine-Learning
 slug: ml
-category: data
+category: lec
 menu: false
 order: 1
 ---
