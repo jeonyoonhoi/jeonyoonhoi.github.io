@@ -21,7 +21,7 @@ description:         >
   계획은 아끼고 실천을 낭비하고 싶습니다.
 
 # This should be the same author as first entry in `_data/authors.yml`
-author:              hoi
+author:              
   name:              yoonhoi Jeon
   email:             une0927@gmail.com
 
