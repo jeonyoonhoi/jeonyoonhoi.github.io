@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Study-Node.js 첫번쨰 글"
+title:  "Study-Node.js 두번째 글"
 subtitle:   "서브타이틀"
 categories: study
 tags: nodejs
