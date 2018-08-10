@@ -1,6 +1,6 @@
 ---
 layout: tag-blog
-title: Node.js
+title: Node-js
 slug: nodsjs
 category: study
 menu: false

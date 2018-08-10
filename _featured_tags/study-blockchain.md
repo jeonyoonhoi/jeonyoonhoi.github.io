@@ -1,9 +1,8 @@
 ---
 layout: tag-blog
 title: Blockchain
-slug: block
-category: 
-
+slug: blockchain
+category: study
 menu: false
 order: 1
 ---
