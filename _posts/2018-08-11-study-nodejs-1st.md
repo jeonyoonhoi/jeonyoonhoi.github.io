@@ -1,5 +1,5 @@
 ---
-layout: posta
+layout: post
 title:  "study-nodejs"
 subtitle:   "nodejs 스터디 내용 들어감"
 categories: study
