@@ -1,15 +1,13 @@
 ---
 layout: post
 title:  "Geth로 프라이빗 노드 구축"
-subtitle:   "환경설정"
+subtitle:   "2. 환경설정"
 categories: study
 tags: blockchain
 comments: true
 ---
 
-# 이더리움 DApp - 부동산 스마트 컨트랙트 개발 2. 환경설정
-
-## 3. Geth로 프라이빗 노드 구축 I (제네시스 블록, 계정 생성)
+## 2.3. Geth로 프라이빗 노드 구축 I (제네시스 블록, 계정 생성)
 
 ###  Genesis 블록 생성
 
@@ -291,7 +289,7 @@ INFO [09-23|16:00:45.878] Commit new mining work                   number=46 sea
 
 
 
-## Geth로 프라이빗 노드 구축 III (Geth 콘솔)
+## 2.4. Geth로 프라이빗 노드 구축 III (Geth 콘솔)
 
 #### 백그라운드로 계속 돌고있는 노드에 연결시켜서 자바스크립트 콘솔을 열어보자
 

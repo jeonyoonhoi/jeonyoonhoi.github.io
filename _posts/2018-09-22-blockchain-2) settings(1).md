@@ -1,15 +1,13 @@
 ---
 layout: post
 title:  "이더리움 DAPP 개발환경 셋업"
-subtitle:   "환경설정"
+subtitle:   "2. 환경설정"
 categories: study
 tags: blockchain
 comments: true
 ---
 
-# 이더리움 DApp - 부동산 스마트 컨트랙트 개발 2. 환경설정
-
-## 1. 이더리움 DAPP 개발환경 셋업 I (Geth, 가나슈, 노드.js, 트러플)
+## 2.1. 이더리움 DAPP 개발환경 셋업 I (Geth, 가나슈, 노드.js, 트러플)
 
 이더리움 dapp과 스마트 컨트랙트를 개발하기 위한 개발환경 셋팅
 
@@ -140,7 +138,7 @@ Solidity v0.4.24 (solc-js)
 
 
 
-## 2. 이더리움 DAPP 개발환경 셋업 II (비쥬얼 스튜디오 코드, 메타마스크)
+## 2.2. 이더리움 DAPP 개발환경 셋업 II (비쥬얼 스튜디오 코드, 메타마스크)
 
 ### VIsual studio code
 

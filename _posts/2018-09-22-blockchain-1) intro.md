@@ -7,11 +7,7 @@ tags: blockchain
 comments: true
 ---
 
-# 이더리움 DApp - 부동산 스마트 컨트랙트 개발
-
 ## 1. Intro
-
-
 
 [inflearn](https://www.inflearn.com/course/blockchain-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-dapp/)
 
@@ -81,3 +77,4 @@ comments: true
 |                                     | Ropsten 테스트넷 컨트랙 배포 및 테스팅 I (리믹스 사용)       |          |
 |                                     | Ropsten 테스트넷 컨트랙 배포 및 테스팅 II (인퓨라 사용)      |          |
 |                                     | [요약](https://www.inflearn.com/unit/%ec%9a%94%ec%95%bd/)    |          |
+
