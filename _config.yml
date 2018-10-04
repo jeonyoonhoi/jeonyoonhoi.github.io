@@ -21,7 +21,7 @@ description:         >
   계획은 아끼고 실천을 낭비하고 싶습니다.
 
 # This should be the same author as first entry in `_data/authors.yml`
-author:              
+author:
   name:              yoonhoi Jeon
   email:             une0927@gmail.com
 
@@ -44,7 +44,7 @@ google_fonts:        Lato
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:    UA-110573232-1
+#google_analytics:    UA-110573232-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus_shortname:    jeonyoonhoi
