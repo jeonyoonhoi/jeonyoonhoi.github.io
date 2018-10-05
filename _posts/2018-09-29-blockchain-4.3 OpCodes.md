@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "OpCodes"
+title:  "4. Solidity smart contract - OpCodes"
 subtitle:   "솔리디티 스마트 계약 이론"
 categories: study
 tags: blockchain

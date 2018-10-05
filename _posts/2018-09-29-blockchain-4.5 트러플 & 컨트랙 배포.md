@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "트러플 & 컨트랙 배포"
+title:  "4. Solidity smart contract - 트러플 & 컨트랙 배포"
 subtitle:   "솔리디티 스마트 계약 실습"
 categories: study
 tags: blockchain

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "contract의 구조"
-subtitle:   "3. 솔리디티 스마트 계약 이론"
+title:  "3. 솔리디티 스마트 계약 이론"
+subtitle:   " "
 categories: study
 tags: blockchain
 comments: true

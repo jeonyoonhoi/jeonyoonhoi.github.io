@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Geth로 프라이빗 노드 구축"
-subtitle:   "2. 환경설정"
+title:  "2. 환경설정"
+subtitle:   "2.3. Geth로 프라이빗 노드 구축 I (제네시스 블록, 계정 생성)"
 categories: study
 tags: blockchain
 comments: true

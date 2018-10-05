@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Gas"
-subtitle:   "솔리디티 스마트 계약 이론"
+title:  "4. Solidity smart contract - Gas"
+subtitle:   "Gas"
 categories: study
 tags: blockchain
 comments: true

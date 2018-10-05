@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "컨트랙 최적화"
+title:  "4. Solidity smart contract - 컨트랙 최적화"
 subtitle:   "솔리디티 스마트 계약 이론"
 categories: study
 tags: blockchain

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "이더리움 DAPP 개발환경 셋업"
-subtitle:   "2. 환경설정"
+title:  "2. 환경설정
+subtitle:   "2.1. 이더리움 DAPP 개발환경 셋업 I (Geth, 가나슈, 노드.js, 트러플)"
 categories: study
 tags: blockchain
 comments: true
@@ -208,10 +208,5 @@ json 파일을 열고 language = 'ko' 로 바꿔줌
 - 메타마스크 > 사용자 모양 > =import account
 - 가나슈에서 복사한 private key를 넣어준다.
 - seeds 써서 복구할때 여기서 생성된건 복구되지 않는다. 
-
-
-
-## 3. Geth로 프라이빗 노드 구축 I (제네시스 블록, 계정 생성)
-
 
 
