@@ -45,14 +45,16 @@ order: 10
 
 # 2. Projects 
 
+> 프로젝트 나열은 시간순 입니다.
+
 #### **FORREST.com** STT 기반의 시니어를 위한 쇼핑몰 개발
 
-> ##### (K startup 과제 관련 개인외주작업)
->
-> - 기간 :  2019.01~ 2019.02
-> - 역할 : (팀장) 프로젝트 관리 / 스토리보드 제작/ 게시판 구축 및 api 연동
-> - 내용 : GOOGLE STT api 를 적용한 노년층 대상의 쇼핑몰 웹페이지 제작
-> - [결과물](https://github.com/jeonyoonhoi/projects/tree/master/2019-01%20%5BK-startsup%5D%20FOR-REST.com%2C%20STT%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EC%8B%9C%EB%8B%88%EC%96%B4%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%87%BC%ED%95%91%EB%AA%B0>) :  [백엔드 구성기술서], [프론트 구성기술서]
+##### (K startup 과제 관련 개인외주작업)
+
+- 기간 :  2019.01~ 2019.02
+- 역할 : (팀장) 프로젝트 관리 / 스토리보드 제작/ 게시판 구축 및 api 연동
+- 내용 : GOOGLE STT api 를 적용한 노년층 대상의 쇼핑몰 웹페이지 제작
+- [결과물](https://github.com/jeonyoonhoi/projects/tree/master/2019-01%20%5BK-startsup%5D%20FOR-REST.com%2C%20STT%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EC%8B%9C%EB%8B%88%EC%96%B4%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%87%BC%ED%95%91%EB%AA%B0>) :  [백엔드 구성기술서], [프론트 구성기술서]
 
 
 
@@ -136,6 +138,8 @@ order: 10
 
 
 
+
+
 #### **SAC**, 전통재래시장 활성화를 위한 어플리케이션 프로토타이핑 
 
 ##### (SKKU UX DESIGN SCHOOL)
@@ -152,6 +156,8 @@ order: 10
 
 
 # 3. Experiences
+
+> 진로와 관련되거나 영향이 있었던 경험들만 담았습니다.
 
 #### 교육분야
 
@@ -218,6 +224,8 @@ order: 10
 
 
 
+
+
 # 4. Skills
 
 * Programming language :  C, JAVA, Python, JS, Solidity
@@ -230,9 +238,11 @@ order: 10
 
 
 
-## 소개 
+## 소개
 
-- Page :  [https://jeonyoonhoi.github.com/](https://jeonyoonhoi.github.com/)
+> TMI 는 [about](https://jeonyoonhoi.github.io/about/) 에서,,,
+
+- Page :  [https://jeonyoonhoi.github.io/](https://jeonyoonhoi.github.io/)
 - Github : [https://github.com/jeonyoonhoi](https://github.com/jeonyoonhoi)
 - Mail : une0927@gmail.com
 - Instagram : [instagam.com/hoi_________________hoi](https://instagram.com/hoi_________________hoi)
