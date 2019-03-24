@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ML Study (5)Dimensionality Reduction"
+title:  "ML Study (6)Ensemble Learning"
 subtitle:   "2019-02-14-study-machinelearning"
 categories: study
 tags: machinelearning
