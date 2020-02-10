@@ -12,18 +12,9 @@ order: 10
 
 # 1. Education
 
-- 2014.03 성균관대학교 사범대학 컴퓨터교육과 입학
+- 2014.03 ~ 2019.08 B.S. Computer Education & Data Science (SKKU)
 
-  (복수전공 : 데이터사이언스학과)
-
-- 2019.08 졸업예정
-
-
-
-#### GPA
-
-- Total : 3.71/4.5
-
+- 2019.09 ~ (2021.08) M.S. Knowledge Service Enginnering (KAIST)
 
 
 #### 수강과목
@@ -157,8 +148,6 @@ order: 10
 
 # 3. Experiences
 
-> 진로와 관련되거나 영향이 있었던 경험들만 담았습니다.
-
 #### 교육분야
 
 - 성균관대학교 <문제해결과알고리즘> TA활동
@@ -186,15 +175,13 @@ order: 10
 
   - (2018.8 - 2 weeks)  선전, 베이징 중국
   - 내용 : 한국 ICT 인재양성을 위한 화웨이 CSR 프로그램
-    - 화웨이 본사 내 Huawei university에서 5G 관련 ICT 교육 이수
 
 
 
 - Global Camp (2019.1) 
   - (2019.1 - 2 weeks) Seattle Washington
   - 내용 : Univ.Washington Informatics 학과 수업 이수 및 테크노벨리 탐방
-    - 시청, 스타벅스 본사 데이터부서, 공공도서관,MS IoT 연구실 방문 
-
+  
 #### 봉사활동
 
 - 한국장학재단 교육소외지역 지식멘토링캠프
@@ -204,7 +191,6 @@ order: 10
 - 성균관대학교 입학사정관실 비젼멘토링
 - (2015) NAVER CONNECT 소프트웨어야놀자 (20H)
 - (2016) 동성고등학교 교육봉사 (60H)
-- 그 외 노력봉사 등 기타 활동 까지 포함 총 : 300H~
 
 
 
@@ -219,8 +205,9 @@ order: 10
   - BASE(교육기간) 2018.07 ~ 2018.12
   - ADV(프로젝트기간) 2019.01 ~ 진행중
   - 활동내역
-    - 현) 멘토진으로 활동
-    - 현) NLP 관련 프로젝트 진행 중
+    - 멘토진으로 활동
+    - NLP 관련 프로젝트 진행
+    
 
 
 
@@ -245,7 +232,7 @@ order: 10
 - Page :  [https://jeonyoonhoi.github.io/](https://jeonyoonhoi.github.io/)
 - Github : [https://github.com/jeonyoonhoi](https://github.com/jeonyoonhoi)
 - Mail : une0927@gmail.com
-- Instagram : [instagam.com/hoi_________________hoi](https://instagram.com/hoi_________________hoi)
+- Instagram : [instagam.com/hoi\_\_\_\_\_hoi](https://instagram.com/hoi_____hoi)
 
 
 
