@@ -17,20 +17,6 @@ order: 10
 - 2019.09 ~ (2021.08) M.S. Knowledge Service Enginnering (KAIST)
 
 
-#### 수강과목
-
-* 2019-1 : 컴퓨터구조 () / 프로그래밍언어 ()
-* 2018-2 : 머신러닝실습 (A+)/ 데이터사이언스와 R (B+)
-* 2018-하계 : Human Computer Interaction (P) / Big Data : Technology and Applications (P)
-* 2017-2 : 컴퓨터교육개론 ( A+ ) / 알고리즘 (B+) / 디지털인문학 (A+) : 데이터마이닝실습 ( B+ )
-* 2017-1 :  데이터베이스(A) / 의학정보개론및처리론(B+) / 인터넷프로그래밍실습(B)
-* 2016-2  : 운영체제(B+) / 컴퓨터네트워크(A) / 컴퓨터교과교육론(A) / 프로그래밍기초와실습(A)
-* 2016-하계 : Creative and Innovative design thinking(P)
-* 2016-1 : 자료구조(A+) : 컴퓨터그래픽스(B) : 컴퓨터교재연구및지도법(A)
-* 2015-2 : 논리회로(B+) : 비주얼프로그래밍(B)
-* 2014-2 : 기본프로그래밍(B+) / 이산수학(B+)  / 미분적분학(B)
-
-
 
 
 
@@ -43,7 +29,7 @@ order: 10
 ##### (K startup 과제 관련 개인외주작업)
 
 - 기간 :  2019.01~ 2019.02
-- 역할 : (팀장) 프로젝트 관리 / 스토리보드 제작/ 게시판 구축 및 api 연동
+- 역할 : 프로젝트 관리 / 스토리보드 제작/ 게시판 구축 및 api 연동
 - 내용 : GOOGLE STT api 를 적용한 노년층 대상의 쇼핑몰 웹페이지 제작
 - [결과물](https://github.com/jeonyoonhoi/projects/tree/master/2019-01%20%5BK-startsup%5D%20FOR-REST.com%2C%20STT%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EC%8B%9C%EB%8B%88%EC%96%B4%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%87%BC%ED%95%91%EB%AA%B0>) :  [백엔드 구성기술서], [프론트 구성기술서]
 
@@ -56,7 +42,7 @@ order: 10
 ##### ( ICT멘토링 한이음 )
 
 - 기간 : 2018.04~ 2018.11
-- 역할 : (팀장) 프로젝트 관리, 이더리움 연동부 구현
+- 역할 : 프로젝트 관리, 이더리움 연동부 구현
 - 내용 : 가나슈, 트러플 프레임워크를 사용하여 이더리움 기반의 중고자동처 거래 플랫폼 개발(메타마스크 결제까지 구현)
 - 결과물 : [시연영상](https://youtu.be/1nhJT7w0Ktg),  [이더리움 기반의 중고자동차 거래 플랫폼 구현](<https://github.com/jeonyoonhoi/projects/tree/master/2018-04%20%5B%ED%95%9C%EC%9D%B4%EC%9D%8C%5DBLOCK-CAR%2C%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%20%EA%B8%B0%EB%B0%98%20%EC%A4%91%EA%B3%A0%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B1%B0%EB%9E%98%20%ED%94%8C%EB%9E%AB%ED%8F%BC>)
   - 2018년 중소기업융합학회 추계종합학술대회  - IT 분야 대상 수상 
