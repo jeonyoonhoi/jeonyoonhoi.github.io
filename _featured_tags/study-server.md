@@ -1,8 +1,9 @@
 ---
 layout: tag-blog
-title: ML Study(2018)
-slug: machinelearning
+title: Server Management
+slug: server
 category: study
 menu: false
-order: 5
+order: 7
 ---
+

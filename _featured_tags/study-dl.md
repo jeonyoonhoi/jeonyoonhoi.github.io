@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: ML Study(2018)
-slug: machinelearning
+title: DL Study
+slug: deeplearning
 category: study
 menu: false
-order: 5
+order: 1
 ---
